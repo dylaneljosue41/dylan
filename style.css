@@ -1,0 +1,58 @@
+h1{
+    color: rgb(218, 18, 18);
+    font-family: 'Franklin Gothic Mediium´, ''Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times,Serif;
+    background-color: white;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 50px auto;
+}
+img{
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    margin-top: 1%;
+    border-radius: 10px;
+    height: 500px;
+
+}
+body,html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.mexico {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+div{
+    text-align: center;
+    align-items: center;
+
+}
+.mostrarArriba {
+    animation: mostrarArriba 1s;
+}
+
+.video{
+    position: fixed;
+    top: 0;
+    nav-left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
